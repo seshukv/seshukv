@@ -1,6 +1,8 @@
 ### Hi there, I'm Seshu Kumar Vungarala 👋
 
-Welcome to my GitHub page! I am a Vancouver-based data enthusiast with a post-degree diploma in Data Analytics and a Bachelor's degree in Computer Science. With over three years of experience as a Systems Analyst at TATA Consultancy Services, as well as research assistant and data analyst roles at Langara College and HeadCheck, I have developed a passion for finding trends and using Machine Learning models to derive insights. As a blogger on Medium, I enjoy sharing my knowledge and insights on various data science-related topics.
+Welcome to my GitHub page! 
+
+Welcome to my GitHub page! I am a Vancouver-based data enthusiast with a post-degree diploma in Data Analytics and a Bachelor's degree in Computer Science. Alongside my 3 years of experience as a Systems Analyst at TATA Consultancy Services, I have also gained invaluable insights as a Research Assistant at Langara College and as a Data Analyst at HeadCheck, a Vancouver-based company. As a blogger on Medium, I am passionate about sharing my knowledge and insights on various data science-related topics.
 
 <!--
 **seshukv/seshukv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
