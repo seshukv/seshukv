@@ -7,13 +7,13 @@ I am a Vancouver-based data enthusiast with a post-degree diploma in Data Analyt
 My Reseach Interest:
 
 * Data Analysis
-Natural Language Processing
-Inventory Analysis
-Data Synthesis
-Customer Behaviour Prediction
-Classification
-Clustering
-Similarity Measure
+* Natural Language Processing
+* Inventory Analysis
+* Data Synthesis
+* Customer Behaviour Prediction
+* Classification
+* Clustering
+* Similarity Measure
 
 <!--
 **seshukv/seshukv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
